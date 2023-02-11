@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdelghani AIT TAMGHART.
-- 👀 I’m interested in web full stack developement.
-- 🌱 I’m currently learning web full stack.
+- 👀 I’m intern at OFPPT Morroco ,option Web full stack developement.
+- 🌱 I’m currently learning Laravel 9.
 - 💞️ I’m looking to collaborate on finding solutions to software problems.
 - 📫 How to reach me ? just send me an e-mail (aaittamghart8@gmail.com).
 
